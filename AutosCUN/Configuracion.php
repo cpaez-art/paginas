@@ -1,9 +1,9 @@
 <?php
 //DB details
-$dbHost = 'localhost';
-$dbUsername = 'root';
-$dbPassword = '123456';
-$dbName = 'Autoscun';
+$dbHost = 'proeycto2020.database.windows.net';
+$dbUsername = 'cpaez';
+$dbPassword = 'Cristian2020*';
+$dbName = 'autoscun';
 
 //Create connection and select DB
 $db = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
