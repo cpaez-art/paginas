@@ -1,6 +1,6 @@
 <?php
 
-$conexion = mysqli_connect("localhost", "root", '123456',"ingreso");
+$conexion = mysqli_connect("proeycto2020.database.windows.net", "cpaez", 'Cristian2020*',"ingreso");
 
 //if (!$conexion){
 
